@@ -53,4 +53,4 @@ https://github.com/20eung/ssh-proxyjump
 
 ---
 ## Reference
-1. [https://github.com/20eung/ssh-proxyjump](https://github.com/20eung/ssh-proxyjump)
+1. [SSH ProxyJump for Windows](https://github.com/20eung/ssh-proxyjump)
