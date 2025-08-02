@@ -54,4 +54,4 @@
 ---
 ## Reference
 1. [Windows PC를 Jump Host(Proxy Jump)로 구성하는 방법](https://github.com/20eung/ssh-proxyjump)
-2. [MacOS에서 iTerms2의 단축키 설정 방법](https://github.com/20eung/macos-iterms2-shortcut)
+2. [MacOS에서 iTerm2의 단축키 설정 방법](https://github.com/20eung/macos-iterm2-shortcut)
