@@ -47,3 +47,4 @@ https://github.com/20eung/ssh-proxyjump
 
 - 위치: iTerms2 > Profiles > Open Profiles (⌘ O)
 - Profiles 팝업창 왼쪽에는 Tags로 그룹핑, 오른쪽에 이름순으로 정렬되어 보임
+![profiles.png](/images/profiles.png)
