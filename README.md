@@ -1,12 +1,12 @@
-# MacOS에서 iTems2를 이용해 북마크 관리하는 방법
+# MacOS에서 iTerm2를 이용해 북마크 관리하는 방법
 
 ## 1. 점프 호스트 설정 방법
 
 - https://github.com/20eung/ssh-proxyjump
 
-## 2. iTerms2 Profile: JumpHost
+## 2. iTerm2 Profile: JumpHost
 
-- 위치: iTerms2 > Settings... (⌘ ,) > Profiles
+- 위치: iTerm2 > Settings... (⌘ ,) > Profiles
 - 새 프로파일 생성: ```Default```를 Duplicate Profile (⌘ =)
 - General
   - Name: **JumpHost**
@@ -19,9 +19,9 @@
       - [ ] SSH Integration
         ![settings-profiles-general-command-configure.png](/images/settings-profiles-general-command-configure.png)
      
-## 3. iTerms2 Profile: target-server1
+## 3. iTerm2 Profile: target-server1
 
-- 위치: iTerms2 > Settings... (⌘ ,) > Profiles
+- 위치: iTerm2 > Settings... (⌘ ,) > Profiles
 - 새 프로파일 생성: ```JumpHost```를 Duplicate Profile (⌘ =)
 - General
   - Name: **target-server1**
@@ -32,9 +32,9 @@
     - Configure...
       - [ ] SSH Integration
 
-## 4. iTerms2 Profile: target-server2
+## 4. iTerm2 Profile: target-server2
 
-- 위치: iTerms2 > Settings... (⌘ ,) > Profiles
+- 위치: iTerm2 > Settings... (⌘ ,) > Profiles
 - 새 프로파일 생성: ```target-server1```를 Duplicate Profile (⌘ =)
 - General
   - Name: **target-server2**
@@ -45,9 +45,9 @@
     - Configure...
       - [ ] SSH Integration
 
-## 5. iTerms2 에서 사용 방법
+## 5. iTerm2 에서 사용 방법
 
-- 위치: iTerms2 > Profiles > Open Profiles (⌘ O)
+- 위치: iTerm2 > Profiles > Open Profiles (⌘ O)
 - Profiles 팝업창 왼쪽에는 Tags로 그룹핑, 오른쪽에 이름순으로 정렬되어 보임
 ![profiles.png](/images/profiles.png)
 
