@@ -2,7 +2,7 @@
 
 ## 1. 점프 호스트 설정 방법
 
-https://github.com/20eung/ssh-proxyjump
+- https://github.com/20eung/ssh-proxyjump
 
 ## 2. iTerms2 Profile: JumpHost
 
