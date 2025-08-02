@@ -53,4 +53,4 @@ https://github.com/20eung/ssh-proxyjump
 
 ---
 ## Reference
-1. [SSH ProxyJump for Windows](https://github.com/20eung/ssh-proxyjump)
+1. [Windows PC를 Jump Host(Proxy Jump)로 구성하는 방법](https://github.com/20eung/ssh-proxyjump)
