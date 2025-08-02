@@ -14,8 +14,10 @@ https://github.com/20eung/ssh-proxyjump
   - Title: Name
   - Command: SSH ```jumphost```
     - [ ] Load shell integration automatically
+      ![settings-profiles-general.png](/images/settings-profiles-general.png)
     - Configure...
       - [ ] SSH Integration
+        ![settings-profiles-general-command-configure.png](/images/settings-profiles-general-command-configure.png)
      
 ## 3. Profile: target-server1
 
