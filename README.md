@@ -4,7 +4,7 @@
 
 https://github.com/20eung/ssh-proxyjump
 
-## 2. Profile: JumpHost
+## 2. iTerms2 Profile: JumpHost
 
 - 위치: iTerms2 > Settings... (⌘ ,) > Profiles
 - 새 프로파일 생성: ```Default```를 Duplicate Profile (⌘ =)
@@ -19,7 +19,7 @@ https://github.com/20eung/ssh-proxyjump
       - [ ] SSH Integration
         ![settings-profiles-general-command-configure.png](/images/settings-profiles-general-command-configure.png)
      
-## 3. Profile: target-server1
+## 3. iTerms2 Profile: target-server1
 
 - 위치: iTerms2 > Settings... (⌘ ,) > Profiles
 - 새 프로파일 생성: ```JumpHost```를 Duplicate Profile (⌘ =)
@@ -32,7 +32,7 @@ https://github.com/20eung/ssh-proxyjump
     - Configure...
       - [ ] SSH Integration
 
-## 4. Profile: target-server2
+## 4. iTerms2 Profile: target-server2
 
 - 위치: iTerms2 > Settings... (⌘ ,) > Profiles
 - 새 프로파일 생성: ```target-server1```를 Duplicate Profile (⌘ =)
